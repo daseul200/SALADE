@@ -57,7 +57,7 @@ header .menu .ask a {
     color:#fff;
     border-radius:30px;
     border:1px solid #fff;
-    font-size:15px;
+    font-size: 13px;
 }
 header .menu .menu_btn {
     width:30px;
@@ -290,7 +290,7 @@ header .menu .menu_btn {
 }
 .s2 button {
     border: 1px solid #fff;
-    font-size: 2.4vw;
+    font-size: 2.6vw;
     padding: 2vw;
     display: block;
     background-color: transparent;
@@ -300,14 +300,14 @@ header .menu .menu_btn {
     box-shadow: 1px 1px 1px #333;
 }
 .s2 h2{
-    font-size: 7vw;
+    font-size: 9.3vw;
     margin-top: 4vh;
     color: #fff;
     text-shadow: 1px 1px 1px #333;
 }
 .s2 p{
     color: #fff;
-    font-size: 3.4vw;
+    font-size: 3.7vw;
     margin-top: 4vw;
     width: 50vw;
     line-height: 5vw;
@@ -325,12 +325,12 @@ header .menu .menu_btn {
     margin-top: 4vw;
     color: #fff;
     font-style: normal;
-    font-size: 3vw;
+    font-size: 4vw;
     display: block;
     text-shadow: 1px 1px 1px #333;
 }
 .s2 .egg_logo{
-    width: 7vw;
+    width: 8vw;
     margin-top: 4vw;
 }
 .s3{
@@ -349,7 +349,7 @@ header .menu .menu_btn {
 }
 .s3 button {
     border: 1px solid #fff;
-    font-size: 2.4vw;
+    font-size: 2.8vw;
     padding: 2vw;
     display: block;
     background-color: #fff;
@@ -362,7 +362,7 @@ header .menu .menu_btn {
     margin-bottom: 15vh;
     color: #fff;
     font-style: normal;
-    font-size: 2.4vw;
+    font-size: 2.8vw;
     display: block;
 }
 .s3 .s3_box{
@@ -394,11 +394,11 @@ header .menu .menu_btn {
 }
 .s4 h2{
     color: #fff;
-    font-size: 5vw;
+    font-size: 6vw;
     margin-top: 2vh;
 }
 .s4 h3{
-    font-size: 7vw;
+    font-size: 8vw;
     color: #fff;
     margin-top: 2vh;
     line-height: 5vh;
@@ -418,7 +418,7 @@ header .menu .menu_btn {
 }
 .s4 .s4_box p{
     color: #fff;
-    font-size: 2.4vw;
+    font-size: 3vw;
     white-space: nowrap;
     text-align: center;
     font-weight: bold;
@@ -443,7 +443,7 @@ header .menu .menu_btn {
 .s4 .s4_box .s4_left .s4_left_ani{
     width: 80px;
     height: 72px;
-    left: 3vw;
+    left: 2.5vw;
     top: -10vh;
     opacity: 0;
 }
@@ -477,9 +477,6 @@ header .menu .menu_btn {
     justify-content: center;
     align-items: center;
 }
-/* .s5 .bg{
-    background-color: rgba(0,0,0,0.5);
-} */
 .s5 .line{
     width: 1px;
     height: 30px;
@@ -487,19 +484,19 @@ header .menu .menu_btn {
     margin:5vh auto;
 }
 .s5 h2{
-    font-size: 5vw;
+    font-size: 6vw;
     color: #fff;
 }
 .s5 h3{
-    font-size: 6vw;
+    font-size: 7vw;
     margin-top: 2vh;
     color: #fff
 }
 .s5 p{
-    font-size: 4vw;
+    font-size: 5vw;
     color: #fff;
     margin-top: 5vh;
-    line-height: 25px;
+    line-height: 38px;
     text-align: center;
 }
 .s5 .s5_icon{
@@ -519,6 +516,7 @@ header .menu .menu_btn {
     font-size: 6vw;
     color: #fff;
     text-align: center;
+    margin-top: 80px;
 }
 .s6 h3{
     color: #fff;
@@ -637,7 +635,7 @@ header .menu .menu_btn {
 }
 .s7 span{
     color: #fff;
-    font-size: 3vw;
+    font-size: 4vw;
     margin-top: 2vh;
     display: block;
 }
@@ -662,22 +660,22 @@ footer .info ul li:last-child{
     border-right: none;
 }
 footer .info ul li a{
-    font-size: 2.4vw;
+    font-size: 2.8vw;
     color: #ddd;
     padding: 3vw;
 }
 footer address{
     text-align: center;
     font-style: normal;
-    font-size: 2.4vw;
+    font-size: 2.8vw;
     color: #888;
-    line-height: 5vw;
+    line-height: 6vw;
     margin-top: 2vh;
     font-weight: bold;
 }
 footer p{
     text-align: center;
-    font-size: 2.4vw;
+    font-size: 2.8vw;
     font-weight: bold;
     color: #888;
     margin-top: 0.8vh;
