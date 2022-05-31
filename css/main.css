@@ -443,12 +443,12 @@ header .menu .menu_btn {
 .s4 .s4_box .s4_left .s4_left_ani{
     width: 80px;
     height: 72px;
-    left: 2.5vw;
+    left: 2.7vw;
     top: -10vh;
     opacity: 0;
 }
 .s4 .s4_box .s4_left .s4_left_ani.active{
-    top: -2vh;
+    top: 0vh;
     opacity: 1;
 }
 .s4 .s4_box .s4_right .s4_right_ani{
